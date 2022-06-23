@@ -3315,15 +3315,17 @@ table.alt tfoot {
 }
 
 .wrapper.style1 {
-  background-color: #5e42a6;
+  /* background-color: #5e42a6; */
 }
 
 .wrapper.style1-alt {
-  background-color: #493382;
+  /* background-color: #493382; */
+  background-color: #181717;
 }
 
 .wrapper.style2 {
-  background-color: #5052b5;
+  /* background-color: #5052b5; */
+  /* background-color: black; */
 }
 
 .wrapper.style2-alt {
@@ -3336,6 +3338,7 @@ table.alt tfoot {
 
 .wrapper.style3-alt {
   background-color: #953d75;
+  /* background-color: black; */
 }
 
 .wrapper.fullscreen {
@@ -3585,7 +3588,8 @@ body.is-preload .wrapper.fade > .inner {
 
 #sidebar {
   padding: 2.5em 2.5em 0.5em 2.5em;
-  background: #312450;
+  /* background: #312450; */
+  background: rgb(24, 23, 23);
   cursor: default;
   height: 100vh;
   left: 0;
@@ -3932,7 +3936,7 @@ body.is-preload #sidebar nav ul li {
 
 #intro {
   background-attachment: fixed;
-  background-image: url("images/intro.svg");
+  background-image: url("images/portfolio__background.jpeg");
   background-position: top right;
   background-repeat: no-repeat;
   background-size: 100% 100%;
