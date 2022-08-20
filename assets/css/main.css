@@ -422,12 +422,6 @@ hr.major {
   margin: 3em 0;
 }
 
-.video__front {
-  width: 600px;
-  height: 400px;
-  border-radius: 7px;
-  /* box-shadow: 2px 2px 2px grey; */
-}
 .align-left {
   text-align: left;
 }
