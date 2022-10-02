@@ -3936,7 +3936,7 @@ body.is-preload #sidebar nav ul li {
 
 #intro {
   background-attachment: fixed;
-  background-image: url("images/portfolio__background.jpeg");
+  background-image: url("images/cyber__background.png");
   background-position: top right;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -3944,7 +3944,8 @@ body.is-preload #sidebar nav ul li {
 
 #intro p {
   font-size: 1.25em;
-  color: rgb(204, 208, 223);
+  color: rgb(206, 202, 202);
+  font-weight: bold;
 }
 
 @media screen and (max-width: 980px) {
